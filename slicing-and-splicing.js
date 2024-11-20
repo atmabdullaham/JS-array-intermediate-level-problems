@@ -45,3 +45,10 @@ console.log(fruitss); // Output: ['apple', 'banana', 'blueberry', 'coconut', 'ch
 
 
 
+/**
+ * Key Difference
+ * 
+slice() does not modify the original array; it creates a new array.
+splice() modifies the original array directly.
+ 😊
+ */
